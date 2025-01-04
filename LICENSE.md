@@ -1,12 +1,11 @@
-This entire repository is licensed under the creative commons [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. 
-If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-CC BY-NC-SA includes the following elements:
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
-- BY: credit must be given to the creator.
-- NC: Only noncommercial uses of the work are permitted.
-- SA: Adaptations must be shared under the same terms.
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
-For commercial inquiries, please contact the author, Duane Storey, directly at duanestorey@gmail.com
